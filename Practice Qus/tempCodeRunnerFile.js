@@ -1,0 +1,9 @@
+// let fruits=["apple","orange"]
+// // fruits.push("mango","banana")
+// // console.log(fruits)
+// // fruits.pop()
+// // console.log(fruits)
+// // fruits.shift()
+// // console.log(fruits)
+// // fruits.unshift("banana")
+// // console.log(fruits

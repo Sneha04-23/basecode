@@ -1,0 +1,1 @@
+lastDigit=num%10
