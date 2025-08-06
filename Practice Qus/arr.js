@@ -11,4 +11,3 @@ console.log(fruits)
 let arr=["red","black","white"]
 console.log(arr.indexOf("red"))// it is use to find the place of the element
 console.log(arr.includes("red"))// it is use to find the element present in the string or not
-console.log(arr.join(" and "))// it is use to join element useing the word inside in this it like red and black and white
